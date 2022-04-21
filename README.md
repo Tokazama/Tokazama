@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Projects I like to contribute to:
+
+* [ArrayInterface.jl](https://github.com/JuliaArrays/ArrayInterface.jl)
+
+* [NIfTI.jl](https://github.com/JuliaNeuroscience/NIfTI.jl)
+
+* [Static.jl](https://github.com/SciML/Static.jl)
+
+
+Personal projects:
+
+* [ChainedFixes.jl](https://github.com/Tokazama/ChainedFixes.jl)
+
+* [FieldDicts.jl](https://github.com/Tokazama/FieldDicts.jl.git)
+
+* [Metadata.jl](https://github.com/Tokazama/Metadata.jl)
+
+* [StaticLists.jl](https://github.com/Tokazama/StaticLists.jl)
+
+* [StaticRanges.jl](https://github.com/Tokazama/StaticRanges.jl)
+
+* [SwapStreams.jl](https://github.com/Tokazama/SwapStreams.jl)
+
